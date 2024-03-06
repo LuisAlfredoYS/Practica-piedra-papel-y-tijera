@@ -1,1 +1,2 @@
-### practica sencilla de piedra, papel y tijera
+### TAREA: SUBIR LA PRACTICA DE PIEDRA, PAPEL Y TIJERA.
+### CON LA BASE QUE SE EXPLICO EN CLASE
