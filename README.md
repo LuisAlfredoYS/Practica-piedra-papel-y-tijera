@@ -1,1 +1,1 @@
-practica sencilla de piedra, papel y tijera
+### practica sencilla de piedra, papel y tijera
